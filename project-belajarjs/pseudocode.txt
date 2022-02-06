@@ -1,0 +1,48 @@
+//1. hukum 2 newton pseudocode
+
+STORE "massa" with any value 
+STORE "percepatan benda" with any value 
+STORE "resultan gaya" with calculation result 
+
+CALCULATE "massa" times "percepatan bendaa"
+set "resultan gaya" value with calculation result 
+``
+display "resultan gaya"
+
+//2. tahun kabisat
+
+STORE "count" to 1
+
+while "count" < 366 
+DISPLAY "count" mod 4
+STORE "HHitung" to the result of calculation
+if "HHitung" equals to 0
+    DISPLAY "Kabisat!"
+else
+    DISPLAY "B aja!"
+
+
+//3. laundry day
+
+STORE "Pakaian di cuci"
+
+WHILE "pakaian di cuci" < 20
+ADD "pakaian di cuci" by 1
+
+DISPLAY "udah Penuh kk!"
+
+
+//4. periksa kuku 
+
+STORE "periksa kuku" to any condition
+
+IF "periksa kuku" = bersih
+    DO "guru puji siswa"
+ELSE 
+    DO "guru hukum siswa"
+DO "lanjut keliling kelas"
+
+IF "periksa kuku" equals to tidak bersih
+    DO "guru keliling kelas"
+ELSE 
+    DO "guru puji siswa" 
